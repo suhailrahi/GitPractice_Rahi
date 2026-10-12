@@ -1,0 +1,3 @@
+Git is a tool that tracks changes in our code or files. It lets save versions, see what changed, and return to an earlier version. It works on your computer.
+
+GitHub is an online platform where you store Git projects, share code, and collaborate with others.
